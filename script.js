@@ -329,7 +329,6 @@ document.addEventListener("DOMContentLoaded", function () {
         "What is your best advice on how to apologize?",
         "Imagine you could instill one habit in your child that they would carry for life. What habit would you choose and why?",
         "Do you feel you're operating in a sustainable way?",
-        "Have you ever had to negotiate salary or a promotion? What's your strategy?",
         "Think of one of your big lofty goals. What small step could you take today towards achieving it?",
         "What do you wish people would talk more about right now?",
         "What's the most significant risk you've ever taken and how did it turn out?",
