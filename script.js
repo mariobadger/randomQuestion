@@ -1,4 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
+
+    // Questions partially extracted from Letterloop: https://www.letterloop.co/questions.
+
     const questions = [
         "What is the meaning of life?",
         "What is your biggest dream?",
