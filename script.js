@@ -530,3 +530,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
     document.body.style.backgroundColor = getRandomBackgroundColor();
 });
+
+function showQuestion() {
+    const container = document.getElementById("question-wrapper");
+    const button = document.getElementById("show-question-button");
+    container.style.display = "block";
+    button.style.display = "none";
+}
