@@ -9,7 +9,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  font-family: 'Arial', sans-serif;
+  font-family: 'Helvetica Neue', 'Roboto', 'Helvetica', 'Arial', sans-serif;
 }
 
 input[type="button"] {
@@ -50,6 +50,5 @@ input[type="button"]:hover {
   padding: 10px;
   border-radius: 10px;
   font-weight: 300;
-  font-family: 'Helvetica Neue', 'Roboto', 'Helvetica', 'Arial', sans-serif;
   line-height: 60px;
 }
